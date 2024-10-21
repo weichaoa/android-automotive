@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/hello_world_text"
+        android:layout_width="262dp"
+        android:layout_height="48dp"
+        android:text="Hello亚马逊云科技"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
+</LinearLayout>

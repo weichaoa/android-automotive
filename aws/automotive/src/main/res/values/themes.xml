@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Aws" parent="android:Theme.Material.Light.DarkActionBar" />
+</resources>
